@@ -17,8 +17,10 @@ Getting Started
 To run the code provided in this repository, follow these steps:
 
 Clone the repository to your local machine.
+
 Install the required Python libraries listed in the code using pip or conda.
-Run the Jupyter Notebook file (Customer_Segmentation.ipynb) to execute the code step by step.
+
+Run the Jupyter Notebook file (customer-segmentation-using-k-means-and-pca.ipynb) to execute the code step by step.
 Dataset
 The dataset used for this analysis contains information on 8950 credit card holders, including features such as balance, purchases, payments, credit limit, and more. Each row represents a customer, and the goal is to segment them into meaningful groups.
 
